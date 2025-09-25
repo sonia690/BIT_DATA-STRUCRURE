@@ -18,3 +18,6 @@ The array module for fixed-type numeric arrays
 Dictionaries to represent records, with updates, deletions, and aggregates
 # OUTPUT SCREENSHOOT
 <img width="1427" height="780" alt="Image" src="https://github.com/user-attachments/assets/56e9ccb6-3feb-4394-a2ce-64233a675216" />
+
+
+
