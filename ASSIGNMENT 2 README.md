@@ -15,3 +15,6 @@ Algorithmic Challenge: Reverse strings using stack data structure.
 
 Theoretical Reflections: Understanding why stacks support undo but not fairness, and how FIFO ensures equality.
 
+
+
+<img width="1447" height="750" alt="Image" src="https://github.com/user-attachments/assets/e5ebbc64-140b-4aad-bd46-8091f59f61c2" />
